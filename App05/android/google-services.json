@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480659527612",
+    "firebase_url": "https://reactapp05.firebaseio.com",
+    "project_id": "reactapp05",
+    "storage_bucket": "reactapp05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480659527612:android:c4ff373a8cd80c4f",
+        "android_client_info": {
+          "package_name": "com.app05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480659527612-scjtd31fqotbpretv66on1leobmrdilh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBApnO-IB64Gkrg5iFbIRlzHx0bblvNZrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480659527612-scjtd31fqotbpretv66on1leobmrdilh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
