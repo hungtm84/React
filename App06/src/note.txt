@@ -1,0 +1,31 @@
+react-native init App09 --version react-native@0.59
+
+import App from './src/components/App';
+import MapView, { PROVIDER_GOOGLE } from 'react-native-maps'; 
+react-native link react-native-maps
+<meta-data
+      android:name="com.google.android.geo.API_KEY"
+      android:value="AIzaSyAA5tkEQ24o3LwDakwZ4sXZJLjONC3DIiQ"/>
+
+import Drawer from 'react-native-drawer';
+import {Navigator} from 'react-native-deprecated-custom-components';
+import Swiper from 'react-native-swiper';
+import TabNavigator from 'react-native-tab-navigator';
+
+
+npm i react-native-swipeout
+npm i react-native-modalbox
+npm i react-native-button
+npm i random-string
+npm i react-native-fetch-blob
+react-native link
+RNFB_ANDROID_PERMISSIONS=true react-native link
+AndroidManifest.xml.
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+npm i react-native-image-picker
+react-native link react-native-image-picker
+react-native unlink react-native-image-picker
+<uses-permission android:name="android.permission.CAMERA" />
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>

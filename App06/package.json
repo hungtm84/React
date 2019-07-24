@@ -8,12 +8,20 @@
   },
   "dependencies": {
     "firebase": "^6.2.4",
+    "random-string": "^0.2.0",
     "react": "16.8.3",
     "react-native": "0.59.9",
+    "react-native-button": "^2.4.0",
     "react-native-custom-components": "^1.0.0",
     "react-native-deprecated-custom-components": "^0.1.2",
+    "react-native-drawer": "^2.5.1",
     "react-native-fetch-blob": "^0.10.8",
     "react-native-image-picker": "^0.28.1",
+    "react-native-maps": "^0.25.0",
+    "react-native-modalbox": "^1.7.1",
+    "react-native-swipeout": "^2.3.6",
+    "react-native-swiper": "^1.5.14",
+    "react-native-tab-navigator": "^0.3.4",
     "react-navigation": "^3.11.0"
   },
   "devDependencies": {
