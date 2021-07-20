@@ -10,7 +10,7 @@
     "firebase": "^6.2.4",
     "random-string": "^0.2.0",
     "react": "16.8.3",
-    "react-native": "0.59.9",
+    "react-native": "0.62.3",
     "react-native-button": "^2.4.0",
     "react-native-custom-components": "^1.0.0",
     "react-native-deprecated-custom-components": "^0.1.2",
